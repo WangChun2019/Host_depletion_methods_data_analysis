@@ -1,1 +1,2 @@
 # Host_depletion_methods_data_analysis
+We developed a new host depletion method and compared the performance of seven host depletion methods on respiratory samples, including bronchoalveolar lavage fluid (BALF) and oropharyngeal swab (OP). Here we provide all the code and pipline used to analyze the data in the article. The order of all the code is determined by the order of the figures in the article
